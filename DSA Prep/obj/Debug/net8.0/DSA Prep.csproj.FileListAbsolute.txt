@@ -13,3 +13,7 @@ C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\obj\Debug\net8.0\refint\DSA
 C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\obj\Debug\net8.0\DSA Prep.pdb
 C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\obj\Debug\net8.0\DSA Prep.genruntimeconfig.cache
 C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\obj\Debug\net8.0\ref\DSA Prep.dll
+C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\bin\Debug\net8.0\Array Question.dll
+C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\bin\Debug\net8.0\Array Question.pdb
+C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\obj\Debug\net8.0\DSA Prep.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\obj\Debug\net8.0\DSA Prep.csproj.Up2Date

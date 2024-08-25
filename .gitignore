@@ -3,3 +3,8 @@
 ################################################################################
 
 /DSA Prep/.vs/*
+/DSA Prep/obj/*
+/DSA Prep/bin/Debug/net8.0/DSA Prep.dll
+/Array Question/bin/Debug/net8.0
+/Array Question/obj
+/DSA Prep/obj/DSA Prep.csproj.nuget.dgspec.json

@@ -10,11 +10,24 @@
         "runtime": {
           "DSA Prep.dll": {}
         }
+      },
+      "Array Question/1.0.0": {
+        "runtime": {
+          "Array Question.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
   "libraries": {
     "DSA Prep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Array Question/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
