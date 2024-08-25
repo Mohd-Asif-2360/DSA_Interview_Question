@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Array_Question.Array_Solution
 {
-    internal class Intersection_Of_3_Sortd_Array
+    public class Intersection_Of_3_Sortd_Array
     {
     }
 }
