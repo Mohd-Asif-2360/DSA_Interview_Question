@@ -11,7 +11,7 @@ namespace DSA_Prep
     {
         public StringProvider() {
 
-            Reverse_word_without_function.Reverse_Word("I love to code");
+            //Reverse_word_without_function.Reverse_Word("I love to code");
         }
     }
 }
