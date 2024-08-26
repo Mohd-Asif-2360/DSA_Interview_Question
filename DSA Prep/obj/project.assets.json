@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Array Question.dll": {}
         }
+      },
+      "String Question/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/String Question.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/String Question.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Array Question/Array Question.csproj",
       "msbuildProject": "../Array Question/Array Question.csproj"
+    },
+    "String Question/1.0.0": {
+      "type": "project",
+      "path": "../String Question/String Question.csproj",
+      "msbuildProject": "../String Question/String Question.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Array Question >= 1.0.0"
+      "Array Question >= 1.0.0",
+      "String Question >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -56,6 +72,9 @@
           "projectReferences": {
             "C:\\Users\\Admin\\Downloads\\My Resume\\Code\\DSA\\Array Question\\Array Question.csproj": {
               "projectPath": "C:\\Users\\Admin\\Downloads\\My Resume\\Code\\DSA\\Array Question\\Array Question.csproj"
+            },
+            "C:\\Users\\Admin\\Downloads\\My Resume\\Code\\DSA\\String Question\\String Question.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\My Resume\\Code\\DSA\\String Question\\String Question.csproj"
             }
           }
         }

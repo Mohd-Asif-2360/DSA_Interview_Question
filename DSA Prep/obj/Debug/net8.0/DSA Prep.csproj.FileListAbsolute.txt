@@ -17,3 +17,5 @@ C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\bin\Debug\net8.0\Array Ques
 C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\bin\Debug\net8.0\Array Question.pdb
 C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\obj\Debug\net8.0\DSA Prep.csproj.AssemblyReference.cache
 C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\obj\Debug\net8.0\DSA Prep.csproj.Up2Date
+C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\bin\Debug\net8.0\String Question.dll
+C:\Users\Admin\Downloads\My Resume\Code\DSA\DSA Prep\bin\Debug\net8.0\String Question.pdb

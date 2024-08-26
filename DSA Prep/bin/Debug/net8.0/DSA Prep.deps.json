@@ -18,6 +18,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "String Question/1.0.0": {
+        "runtime": {
+          "String Question.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -28,6 +36,11 @@
       "sha512": ""
     },
     "Array Question/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "String Question/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

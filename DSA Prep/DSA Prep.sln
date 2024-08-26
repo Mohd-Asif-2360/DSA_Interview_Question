@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSA Prep", "DSA Prep.csproj", "{FB9934CE-353F-45DF-9661-A20D4D0B7DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Question", "..\Array Question\Array Question.csproj", "{62EFF5A4-6CEC-43D6-9E8D-90333BE22C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Question", "..\Array Question\Array Question.csproj", "{62EFF5A4-6CEC-43D6-9E8D-90333BE22C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Question", "..\String Question\String Question.csproj", "{9D348EE6-F39A-4363-AB3F-5E84A1B9649C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{62EFF5A4-6CEC-43D6-9E8D-90333BE22C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62EFF5A4-6CEC-43D6-9E8D-90333BE22C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62EFF5A4-6CEC-43D6-9E8D-90333BE22C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D348EE6-F39A-4363-AB3F-5E84A1B9649C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D348EE6-F39A-4363-AB3F-5E84A1B9649C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D348EE6-F39A-4363-AB3F-5E84A1B9649C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D348EE6-F39A-4363-AB3F-5E84A1B9649C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

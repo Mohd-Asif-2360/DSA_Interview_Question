@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Array Question\Array Question.csproj" />
+    <ProjectReference Include="..\String Question\String Question.csproj" />
   </ItemGroup>
 
 </Project>
