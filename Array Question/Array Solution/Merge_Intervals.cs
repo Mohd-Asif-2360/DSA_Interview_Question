@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Array_Question.Array_Solution
 {
-    internal class Merge_Intervals
+    public  class Merge_Intervals
     {
     }
 }
